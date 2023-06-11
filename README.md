@@ -1,0 +1,2 @@
+# smart-community
+一款智慧社区APP，前端使用HBuilder和Vue.js搭建开发，后端使用springboot和springcloud开发
